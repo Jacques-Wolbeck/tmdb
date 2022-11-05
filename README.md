@@ -1,6 +1,8 @@
 # tmdb
 
-A new Flutter project.
+TMDb is an app that uses The Movie Database API to show some informations about movies.
+
+API url (https://developers.themoviedb.org/3/movies/get-now-playing)
 
 ## Getting Started
 
